@@ -1,5 +1,11 @@
-### Hi there 👋
 
+<h3 align="center">Hi there! I'm Gianmarco Rengucci 👋</h3>
+<p align="center">
+  <a href="https://freshgiammi.github.io">Website</a> •
+  <a href="https://www.linkedin.com/in/gianmarco-rengucci/">Linkedin</a>
+</p>
+
+---
 <!--
 **freshgiammi/freshgiammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
