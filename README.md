@@ -8,7 +8,7 @@
 
 ---
 - 💼 Communications Team Associate & IT Manager @ <a href="https://jecomm.it">JECoMM</a>
-- 📚 I’m currently working on my graduation thesis, an <b>Agent-based Epidemic Model based on a Multilayer Network</b>
+- 📚 I’m currently working on my graduation thesis, an <b>Agent-based Epidemic Model based on Multilayer Networks</b>
 - 🎓 I’m currently graduating in <a href="https://www.unimi.it/en/education/computer-science-new-media-communications">Computer Science for New Media Communications @ UniMI</a>
 ---
 Currently coding in: 
