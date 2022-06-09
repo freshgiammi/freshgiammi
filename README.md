@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi there! I'm Gianmarco Rengucci <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<h3 align="center">Hi there! I'm Gianmarco Rengucci <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" alt="hi">
 </h3>
 <p align="center">
   <a href="https://freshgiammi.github.io">Website</a> •
@@ -8,10 +8,9 @@
 </p>
 
 ---
-- 💼 Fullstack Developer / Web Designer @ <a href="https://www2.deloitte.com/it/it/services/risk.html">Deloitte Risk Advisory</a>.<br>
-- Freelance Web Developer, you can find me <a href="https://freshgiammi.github.io">here</a>.<br>
-- 🎓 Graduated in <a href="https://www.unimi.it/en/education/computer-science-new-media-communications">Computer Science for New Media Communications @ UniMI</a>, (2021, 102/110L).
-Check out my thesis, an <a href="https://github.com/freshgiammi/tesi"><b>Agent-based Epidemic Model based on Multilayer Networks</b></a>.
+- 💼 Software Engineer @ <a href="https://www2.deloitte.com/it/it/services/risk.html">Deloitte Risk Advisory</a>. (<a href="https://github.com/DAICADigitalHub">@DAICADigitalHub</a>)<br>
+- 👨‍💻 Freelancing as a Fullstack Developer / Web Designer, you can find me <a href="https://freshgiammi.github.io">here</a><br>
+- 🎓 Graduated in <a href="https://www.unimi.it/en/education/computer-science-new-media-communications">Computer Science for New Media Communications @ UniMI</a>, (2021, 102/110L - Check out my thesis, an <a href="https://github.com/freshgiammi/tesi"><b>Agent-based Epidemic Model based on Multilayer Networks</b></a>)
 ---
 Currently coding in: <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -47,7 +46,9 @@ Stuff I know: <br>
 Check my stats!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=freshgiammi&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=issues,contribs)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshgiammi&exclude_repo=android_hardware_qcom_camera,android_kernel_oneplus_msm8974,android_device_oneplus_bacon,gnome-shell-wsmatrix,mostritascabili_js&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **freshgiammi/freshgiammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
