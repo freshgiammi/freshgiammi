@@ -8,9 +8,17 @@
 </p>
 
 ---
+<p align="center">
+Born in Pesaro but (self) made in Milan.<br>
+I graduated with 102/110L in ‘Computer Science for New Media Communications’ At Università degli Studi di Milano, with a thesis on an  <a href="https://github.com/freshgiammi/tesi"><b>Agent-based Epidemic Model based on Multilayer Networks</b></a>.<br><br>
+Interested in technology, design, and everything that's digital. 
+I may run on coffee, but my entire house runs on GNU/Linux: in my spare time, I’m usually contributing to OSS software or tweaking smart home automation. 
+</p>
+
+---
 - 💼 Software Engineer @ <a href="https://www2.deloitte.com/it/it/services/risk.html">Deloitte Risk Advisory</a>. (<a href="https://github.com/DAICADigitalHub">@DAICADigitalHub</a>)<br>
 - 👨‍💻 Freelancing as a Fullstack Developer / Web Designer, you can find me <a href="https://freshgiammi.github.io">here</a><br>
-- 🎓 Graduated in <a href="https://www.unimi.it/en/education/computer-science-new-media-communications">Computer Science for New Media Communications @ UniMI</a>, (2021, 102/110L - Check out my thesis, an <a href="https://github.com/freshgiammi/tesi"><b>Agent-based Epidemic Model based on Multilayer Networks</b></a>)
+- 🎓 Graduated in <a href="https://www.unimi.it/en/education/computer-science-new-media-communications">Computer Science for New Media Communications @ UniMI</a>, (2021, 102/110L)
 ---
 Currently coding in: <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
