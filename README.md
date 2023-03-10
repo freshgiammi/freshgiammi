@@ -1,73 +1,25 @@
+<h2>👋 Hello there, I'm freshgiammi.</h2>
+<img align='right' src="https://freshgiammi.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbannerpic.ebe4dd38.webp&w=3840&q=75" width="400">
+<p><em>💼 Full-stack Developer (Consultant) at <a href="https://www2.deloitte.com/it/it/services/risk.html">Deloitte Risk Advisory SRL (DAICA)</a></br></em></p>
+<p><em>🎓 Graduated in <a href="https://www.unimi.it/en/education/computer-science-new-media-communications">Computer Science for New Media Communications @ UniMI</a>, (2021, 102/110L)
+</em></p>
 
-<h3 align="center">Hi there! I'm Gianmarco Rengucci <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" alt="hi">
-</h3>
-<p align="center">
-  <a href="https://freshgiammi.dev">Website</a> •
-  <a href="https://www.linkedin.com/in/gianmarco-rengucci/">Linkedin</a> •
-    <a href="https://discordapp.com/users/391674437696618497/">Discord (freshgiammi#9562)</a>
-</p>
-
+[![Twitter: freshgiammi](https://img.shields.io/twitter/follow/freshgiammi?style=social)](https://twitter.com/freshgiammi)
+[![Linkedin: Gianmarco Rengucci](https://img.shields.io/badge/-Gianmarco_Rengucci-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianmarco-rengucci/)](https://www.linkedin.com/in/gianmarco-rengucci/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&label=freshgiammi)](https://discordapp.com/users/391674437696618497/)
 ---
-<p align="center">
+
+<p>
 Born in Pesaro but (self) made in Milan.<br>
-I graduated with 102/110L in ‘Computer Science for New Media Communications’ At Università degli Studi di Milano, with a thesis on an  <a href="https://github.com/freshgiammi/tesi"><b>Agent-based Epidemic Model based on Multilayer Networks</b></a>.<br><br>
 Interested in technology, design, and everything that's digital. 
 I may run on coffee, but my entire house runs on GNU/Linux: in my spare time, I’m usually contributing to OSS software or tweaking smart home automation. 
 </p>
 
----
-- 💼 Software Engineer @ <a href="https://www2.deloitte.com/it/it/services/risk.html">Deloitte Risk Advisory</a>. (<a href="https://github.com/DAICADigitalHub">@DAICADigitalHub</a>)<br>
-- 👨‍💻 Freelancing as a Fullstack Developer / Web Designer, you can find me <a href="https://freshgiammi.github.io">here</a><br>
-- 🎓 Graduated in <a href="https://www.unimi.it/en/education/computer-science-new-media-communications">Computer Science for New Media Communications @ UniMI</a>, (2021, 102/110L)
----
-Currently coding in: <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-
-Some of the stuff I use daily: <br>
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-![Wordpress](https://img.shields.io/badge/-Wordpress-blue?style=flat-square&logo=wordpress)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-Stuff I know: <br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=Anaconda)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
----
-Check my stats!
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=freshgiammi&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=issues,contribs)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshgiammi&exclude_repo=android_hardware_qcom_camera,android_kernel_oneplus_msm8974,android_device_oneplus_bacon,gnome-shell-wsmatrix,mostritascabili_js&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-**freshgiammi/freshgiammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stuff I use and/or know 
+```typescript
+const profileInfo = {
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, NextJS, Radix UI, Node, Express, TypeORM, Postgres, Docker, Linux, Git, WordPress],
+  software: [VSCode, Firefox, Notion, Figma]
+}
+```
