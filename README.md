@@ -1,8 +1,11 @@
 <h2>👋 Hello there, I'm freshgiammi.</h2>
 <img align='right' src="https://freshgiammi.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbannerpic.ebe4dd38.webp&w=3840&q=75" width="300">
-<p><em>💼 Full-stack Developer (Consultant) at <a href="https://www2.deloitte.com/it/it/services/risk.html">Deloitte Risk Advisory SRL (DAICA)</a></br></em></p>
-<p><em>🎓 Graduated in <a href="https://www.unimi.it/en/education/computer-science-new-media-communications">Computer Science for New Media Communications @ UniMI</a>, (2021, 102/110L)
-</em></p>
+
+👨‍💻 Software Engineer at [Arduino](https://arduino.cc)
+> <sup><sub>_Previously Full-stack Developer (Consultant) at [Deloitte Risk Advisory SRL (DAICA)](https://www2.deloitte.com/it/it/services/risk.html)_</sub></sup>
+
+🎓 Graduated in [Computer Science for New Media Communications @ UniMI](https://www.unimi.it/en/education/computer-science-new-media-communications), (2021, 102/110L)
+
 
 [![Twitter: freshgiammi](https://img.shields.io/twitter/follow/freshgiammi?style=social)](https://twitter.com/freshgiammi)
 [![Linkedin: Gianmarco Rengucci](https://img.shields.io/badge/-Gianmarco_Rengucci-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianmarco-rengucci/)](https://www.linkedin.com/in/gianmarco-rengucci/)
