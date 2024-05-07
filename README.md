@@ -1,7 +1,7 @@
 <h2>👋 Hello there, I'm freshgiammi.</h2>
 <img align='right' src="https://freshgiammi.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbannerpic.ebe4dd38.webp&w=3840&q=75" width="300">
 
-👨‍💻 Software Engineer at [Arduino](https://arduino.cc)
+👨‍💻 Senior Software Engineer at [Arduino](https://arduino.cc)
 > <sup><sub>_Previously Full-stack Developer (Consultant) at [Deloitte Risk Advisory SRL (DAICA)](https://www2.deloitte.com/it/it/services/risk.html)_</sub></sup>
 
 🎓 Graduated in [Computer Science for New Media Communications @ UniMI](https://www.unimi.it/en/education/computer-science-new-media-communications), (2021, 102/110L)
